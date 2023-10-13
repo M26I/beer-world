@@ -2,3 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+.logo {
+    background-image: url("/logo.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+.logo2 {
+    background-image: url("/logo.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}

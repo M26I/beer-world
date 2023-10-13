@@ -13,16 +13,16 @@ const Header = () => {
     <div className=" h-screen bg-cover bg-center" style={{ backgroundImage: 'url("/header.jpg")' }}>
       <div className="absolute bottom-10 left-10 p-6 ml-4">
         <div className={bebas.className}>
-        <h1 className="md:text-9xl text-title-brown">BEER GUIDE</h1>
+        <h1 className="md:text-9xl text-title-brown">BEER WORLD</h1>
         </div>
       </div>
     </div>
     </div>
-    <div className='block md:didden'>
+    <div className='block md:hidden'>
     <div className=" h-screen bg-cover bg-center" style={{ backgroundImage: 'url("/phoneh.png")' }}>
       <div>
         <div className={bebas.className}>
-        <h1 className="text-6xl text-title-brown text-center pt-16">BEER GUIDE</h1>
+        <h1 className="text-5xl text-title-brown text-center pt-24">BEER WORLD</h1>
         </div>
       </div>
     </div>
