@@ -34,7 +34,7 @@ export default function Navbar({ links }) {
               <div className="p-2">
                 <ul className="row text-white">
                   <Link
-                    href="/"
+                    href="/beerstyles"
                     onClick={closeMenu}
                     
                     className="px-4 link link--underline block mt-4 lg:inline-block lg:mt-0 hover:text-stone-200"
@@ -81,20 +81,20 @@ export default function Navbar({ links }) {
             <div className="hidden lg:visible w-full block flex-grow lg:flex lg:items-center lg:w-auto grid grid-cols-2 text-title-brown  py-6 bg-forestgreen">
               <div className="text-left">
                 <Link
-                  title="Discover Ashfield logo - home link"
+                  title="Beer logo- home link"
                   href="/"
                   aria-label="home link"
                 >
                   <div
                     className="logo w-40 h-28 "
-                    title="Discover Ashfield logo - home link"
-                    alt="Discover Ashfield logo - home link"
+                    title="Beer logo- home link"
+                    alt="Beer logo- home link"
                   ></div>
                 </Link>
               </div>
               <div className="text-3xl font-medium  lg:flex-grow text-right">
                 <Link
-                  href="/"
+                  href="/beerstyles"
                   className="px-4 link link--underline block mt-4 lg:inline-block lg:mt-0 hover:text-stone-200"
                   
                 >
@@ -126,14 +126,14 @@ export default function Navbar({ links }) {
             <div className="p-5">
               <Link
                 href="/"
-                title="Discover Ashfield logo - home link"
+                title="Beer logo- home link"
                 aria-label="home link"
               >
                 <div
                   className="logo2 w-14 h-20 "
                   aria-label="home link"
-                  title="Discover Ashfield logo - home link"
-                  alt="Discover Ashfield logo - home link"
+                  title="Beer logo- home link"
+                  alt="Beer logo- home link"
                 ></div>
               </Link>
             </div>
