@@ -11,7 +11,7 @@ const Header = () => {
     <>
     <div className='hidden md:block'>
     <div className=" h-screen bg-cover bg-center" style={{ backgroundImage: 'url("/header.jpg")' }}>
-      <div className="absolute bottom-10 left-10 p-6 ml-4">
+      <div className="absolute bottom-10 left-20 p-6 ml-4">
         <div className={bebas.className}>
         <h1 className="md:text-9xl text-title-brown">BEER WORLD</h1>
         </div>
