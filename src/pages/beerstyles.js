@@ -1,6 +1,8 @@
 import Head from "next/head";
 import Navbar from "@/components/navbar";
 import { Bebas_Neue } from "next/font/google";
+import MainCategories from "@/components/main-ctgs";
+
 
 
 const bebas = Bebas_Neue({
@@ -40,6 +42,9 @@ export default function BeerStyles () {
         <div className=" mx-auto w-5/6">
           <h1 className="text-title-brown text-4xl md:text-6xl  pt-16">MAIN CATEGORIES</h1>
         </div>
+      </section>
+      <section>
+        <MainCategories />
       </section>
       </>
       
