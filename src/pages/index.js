@@ -4,6 +4,8 @@ import { Inter, Bebas_Neue } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import Header from '@/components/header'
 import Navbar from '@/components/navbar'
+import data from "../beer-list.json";
+
 
 const inter = Inter({ subsets: ['latin'] })
 const bebas = Bebas_Neue({
@@ -24,6 +26,7 @@ export default function Home() {
      
       <div className=' mx-auto w-5/6'>
       <div className={bebas.className}>
+       
      <h1 className='text-title-brown text-4xl md:text-6xl  pt-16'>FEW WORDS ABOUT BEER STYLES</h1>
      </div>
      <p className=' text-xl pt-10 '>The most general categorization of beer styles by yeast type is a modern craft brewing phenomenon.

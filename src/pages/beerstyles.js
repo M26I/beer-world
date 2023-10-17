@@ -1,7 +1,9 @@
 import Head from "next/head";
 import Navbar from "@/components/navbar";
 import { Bebas_Neue } from "next/font/google";
-import MainCategories from "@/components/main-ctgs";
+import data from "../beer-list.json";
+import Link from "next/link";
+import Image from "next/image";
 
 
 
@@ -9,7 +11,7 @@ const bebas = Bebas_Neue({
   weight: "400",
    subsets: ['latin'] })
 
-export default function BeerStyles () {
+export default function BeerStyles ({styles}) {
     return(
         <>
         <Head>
@@ -40,11 +42,54 @@ export default function BeerStyles () {
       </div>
       <section className={bebas.className}>
         <div className=" mx-auto w-5/6">
-          <h1 className="text-title-brown text-4xl md:text-6xl  pt-16">MAIN CATEGORIES</h1>
+          <h1 className="text-title-brown text-4xl md:text-6xl  pt-16">EXPLORE BEER STYLES</h1>
         </div>
       </section>
+      
+
+
       <section>
-        <MainCategories />
+        <div className="grid py-10 md:grid-cols-2 lg:grid-cols-3 md:pt-16 md:pb-20 gap-12 mx-auto w-5/6">
+      {data.beerjson.styles.map(style =>
+            <Link
+            key={style.id}
+     href={style.style_id} 
+     className="shadow hover:shadow-2xl rounded-xl transition ease-in-out delay-150 duration-300"
+   >
+     <div className="bg-light rounded-xl h-full">
+       <div
+         className="  mx-auto w-full rounded-t-xl"
+         title= {style.name}
+         style={{
+           backgroundImage: `url(${style.image_url})`,
+           backgroundSize: "cover",
+           backgroundRepeat: "no-repeat",
+           backgroundPosition: "center",
+           height: "300px",
+         }}
+       ></div>
+
+
+       
+
+
+       <div className="py-6 flex flex-row justify-between">
+         <p className=" text-white text-2xl font-bold pl-4">{style.name}</p>
+         <Image
+            src="/arrow.svg"
+            width={50} 
+            height={50}
+            className="pr-4"
+            alt="See more about this beer"
+            title="See more about this beer"
+          />
+       </div>
+     </div>
+   </Link>)}
+        
+
+        
+        </div>
       </section>
       </>
       
@@ -53,3 +98,15 @@ export default function BeerStyles () {
 }
 
 
+
+
+export async function getStaticProps() {
+  // Extract the styles from the JSON data
+  const styles = data.beerjson.styles;
+
+  return {
+    props: {
+      styles,
+    },
+  };
+}
