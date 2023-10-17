@@ -24,11 +24,11 @@ export default function SingleBeer({style}) {
       <div className={bebas.className}>
       <div className="text-title-brown text-4xl md:text-6xl">{style.name}</div>
       </div>
-      {/* Right side: Image */}
+      
       <img
         src={style.image_url}
         alt="Your Image"
-        className="w-42 h-42 object-contain pr-28"
+        className="w-42 h-42 object-contain pr-28 rounded-3xl"
       />
     </header>
        
