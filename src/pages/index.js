@@ -42,7 +42,7 @@ export default function Home() {
             lager as a method of conditioning beer. So, Germans would typically speak of Kölsch as a top-fermented lager beer,
              not an ale, for example.</p>
 
-             <p className=' text-xl pt-10 '>English brewers, particularly when dealing in a historical context, might separate ales from porters and 
+             <p className=' text-xl pt-10 md:pb-16 pb-10'>English brewers, particularly when dealing in a historical context, might separate ales from porters and 
               stouts as types of beer (although in the next breath, saying there is no difference between porters and stouts).
                They might go even further to describe ale as historically distinct from beer in that beer was hopped 
                (or more highly hopped) than ale. These historical notes are important for understanding old recipes and writings,

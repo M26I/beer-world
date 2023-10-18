@@ -42,7 +42,7 @@ export default function Navbar({ links }) {
                     Beer styles
                   </Link>
                   <Link
-                    href="/"
+                    href="/history"
                     
                     onClick={closeMenu}
                     className="px-4 link link--underline block mt-4 lg:inline-block lg:mt-0 hover:text-stone-200"
@@ -101,7 +101,7 @@ export default function Navbar({ links }) {
                   Beer styles
                 </Link>
                 <Link
-                  href="/"
+                  href="/history"
                   className="px-4 link link--underline block mt-4 lg:inline-block lg:mt-0 hover:text-stone-200"
                   
                 >
