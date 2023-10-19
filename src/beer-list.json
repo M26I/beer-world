@@ -5,6 +5,7 @@
         {
           "name": "American Light Lager",
           "category": "Standard American Beer",
+          "main_cat": "American beer styles",
           "image_url": "https://www.beergrains.com/wp-content/uploads/2020/12/Pale-style-beer-4.png",
           "category_id": "1",
           "style_id": "1A",
@@ -76,6 +77,7 @@
         {
           "name": "American Lager",
           "category": "Standard American Beer",
+          "main_cat": "American beer styles",
           "image_url": "https://learn.kegerator.com/wp-content/uploads/2017/08/american-lager.jpg",
           "category_id": "1",
           "style_id": "1B",
@@ -147,6 +149,7 @@
         {
           "name": "Cream Ale",
           "category": "Standard American Beer",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N9JICF7M6VM38hSv9NhoccjYFpyirmYvGw&usqp=CAU",
           "category_id": "1",
           "style_id": "1C",
@@ -217,6 +220,7 @@
         },
         {
           "name": "American Wheat Beer",
+          "main_cat": "American beer styles",
           "category": "Standard American Beer",
           "image_url": "https://i0.wp.com/thebeerjunkies.com/wp-content/uploads/2022/09/DSC_0700-scaled-e1663178168502.jpg?resize=840%2C473&ssl=1",
           "category_id": "1",
@@ -289,6 +293,7 @@
         {
           "name": "International Pale Lager",
           "category": "International Lager",
+          "main_cat": "Lager",
           "category_id": "2",
           "image_url": "https://www.datocms-assets.com/75079/1656640624-czech-lager.jpg?w=450&fm=jpg",
           "style_id": "2A",
@@ -361,6 +366,7 @@
         {
           "name": "International Amber Lager",
           "category": "International Lager",
+          "main_cat": "Lager",
           "image_url": "https://cdn.homebrewersassociation.org/wp-content/uploads/Nice-and-Clean-NHC15.jpg",
           "category_id": "2",
           "style_id": "2B",
@@ -432,6 +438,7 @@
         {
           "name": "International Dark Lager",
           "category": "International Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDt4OqzF9-9VCg_xy9w4H9UHTuCci9fCAKA&usqp=CAU",
           "category_id": "2",
           "style_id": "2C",
@@ -503,6 +510,7 @@
         {
           "name": "Czech Pale Lager",
           "category": "Czech Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-zfcpXDZVgxdDrSpgqMvnBgItm2vT97abg&usqp=CAU",
           "category_id": "3",
           "style_id": "3A",
@@ -574,6 +582,7 @@
         {
           "name": "Czech Premium Pale Lager",
           "category": "Czech Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvNSB8u7X6isVtScX7TjwhhU5E54yDeu2zQ&usqp=CAU",
           "category_id": "3",
           "style_id": "3B",
@@ -645,6 +654,7 @@
         {
           "name": "Czech Amber Lager",
           "category": "Czech Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAw4Ob0CI23yO8TScQPRo_6L3_o6a1cr0GA&usqp=CAU",
           "category_id": "3",
           "style_id": "3C",
@@ -716,6 +726,7 @@
         {
           "name": "Czech Dark Lager",
           "category": "Czech Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPamD0B4bSPNLquu8W3_gyZSbYY-FJBfOtlA&usqp=CAU",
           "category_id": "3",
           "style_id": "3D",
@@ -787,6 +798,7 @@
         {
           "name": "Munich Helles",
           "category": "Pale Malty European Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUDXh1aWPE-jZNJ59dLVXWu-rqs4YDM69Dw&usqp=CAU",
           "category_id": "4",
           "style_id": "4A",
@@ -858,6 +870,7 @@
         {
           "name": "Festbier",
           "category": "Pale Malty European Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEBuCgrGmhd8XFCKrK--lTG4-NOd7zFMnktw&usqp=CAU",
           "category_id": "4",
           "style_id": "4B",
@@ -929,6 +942,7 @@
         {
           "name": "Helles Bock",
           "category": "Pale Malty European Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg5hvFOYV3rh81oYns7YgJiDuzAZPOp_DrSw&usqp=CAU",
           "category_id": "4",
           "style_id": "4C",
@@ -1000,6 +1014,7 @@
         {
           "name": "German Leichtbier",
           "category": "Pale Bitter European Beer",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TgJzQM9_vP2LL_vsHGJND1gGRAitB6enuQ&usqp=CAU",
           "category_id": "5",
           "style_id": "5A",
@@ -1071,6 +1086,7 @@
         {
           "name": "Kölsch",
           "category": "Pale Bitter European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYc-YZr6RWiXo9JJrGFmbD0-ZfStTg58YUGA&usqp=CAU",
           "category_id": "5",
           "style_id": "5B",
@@ -1142,6 +1158,7 @@
         {
           "name": "German Helles Exportbier",
           "category": "Pale Bitter European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4hcvBfQ8wJckygid-evaoVrrKV3OqtuauQ&usqp=CAU",
           "category_id": "5",
           "style_id": "5C",
@@ -1213,6 +1230,7 @@
         {
           "name": "German Pils",
           "category": "Pale Bitter European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInVbbQE7lSOWit_qxKup9PLCsedtHDH0uHw&usqp=CAU",
           "category_id": "5",
           "style_id": "5D",
@@ -1284,6 +1302,7 @@
         {
           "name": "Märzen",
           "category": "Amber Malty European Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUtAlXk8EmYag2kyyZUEJmSghSbGFpWYGppQ&usqp=CAU",
           "category_id": "6",
           "style_id": "6A",
@@ -1355,6 +1374,7 @@
         {
           "name": "Rauchbier",
           "category": "Amber Malty European Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRobmHVspFDe2QSZQr7wlmNvX7r85G_Q5stw&usqp=CAU",
           "category_id": "6",
           "style_id": "6B",
@@ -1426,6 +1446,7 @@
         {
           "name": "Dunkles Bock",
           "category": "Amber Malty European Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxr5hIYl5FOT2gMG-hdiJ6sMxyaH8zlCMLEQ&usqp=CAU",
           "category_id": "6",
           "style_id": "6C",
@@ -1497,6 +1518,7 @@
         {
           "name": "Vienna Lager",
           "category": "Amber Bitter European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://www.brewingwithbriess.com/wp-content/uploads/2017/03/Briess_beer.jpg",
           "category_id": "7",
           "style_id": "7A",
@@ -1568,6 +1590,7 @@
         {
           "name": "Altbier",
           "category": "Amber Bitter European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHtLmIscoDwYnRNuATm9BONKPSy62VTWDucA&usqp=CAU",
           "category_id": "7",
           "style_id": "7B",
@@ -1639,6 +1662,7 @@
         {
           "name": "Munich Dunkel",
           "category": "Dark European Lager",
+          "main_cat": "Lager",
           "image_url": "https://learn.kegerator.com/wp-content/uploads/2015/02/dunkel.jpg",
           "category_id": "8",
           "style_id": "8A",
@@ -1710,6 +1734,7 @@
         {
           "name": "Schwarzbier",
           "category": "Dark European Lager",
+          "main_cat": "Lager",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz13tfuuYu6opARYq4xkMfjrUKOUXSvIojMw&usqp=CAU",
           "category_id": "8",
           "style_id": "8B",
@@ -1781,6 +1806,7 @@
         {
           "name": "Doppelbock",
           "category": "Strong European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qQRQ6U8wEcVckQTzVg_PEWEVVBKz9qwuuQ&usqp=CAU",
           "category_id": "9",
           "style_id": "9A",
@@ -1853,6 +1879,7 @@
         {
           "name": "Eisbock",
           "category": "Strong European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-o9LLXEO0RM9yWWu-4pd1f8mZn6d3HhW3A&usqp=CAU",
           "category_id": "9",
           "style_id": "9B",
@@ -1924,6 +1951,7 @@
         {
           "name": "Baltic Porter",
           "category": "Strong European Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWLFdrTVvCJALy3R5IIJyOAMOBT7CaWTW3Q&usqp=CAU",
           "category_id": "9",
           "style_id": "9C",
@@ -1995,6 +2023,7 @@
         {
           "name": "Weissbier",
           "category": "German Wheat Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLT7bDvcIWVByBgrQCApXtFrHSPTicdDD5w&usqp=CAU",
           "category_id": "10",
           "style_id": "10A",
@@ -2067,6 +2096,7 @@
         {
           "name": "Dunkles Weissbier",
           "category": "German Wheat Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8F-1_aneE_XIyIhNUpESgZZodlqNYJcstAw&usqp=CAU",
           "category_id": "10",
           "style_id": "10B",
@@ -2138,6 +2168,7 @@
         {
           "name": "Weizenbock",
           "category": "German Wheat Beer",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphiNM_AKUWBCW3CrdfkWvfh4Dj7CIat_GYg&usqp=CAU",
           "category_id": "10",
           "style_id": "10C",
@@ -2210,6 +2241,7 @@
         {
           "name": "Ordinary Bitter",
           "category": "British Bitter",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdyPq8U4Tf9NIkEFCrkCkfxNGDpUrrgA7IQw&usqp=CAU",
           "category_id": "11",
           "style_id": "11A",
@@ -2281,6 +2313,7 @@
         {
           "name": "Best Bitter",
           "category": "British Bitter",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XkMH6c-lsWvPF2ccS8MLru-zbmHXXwSGkA&usqp=CAU",
           "category_id": "11",
           "style_id": "11B",
@@ -2352,6 +2385,7 @@
         {
           "name": "Strong Bitter",
           "category": "British Bitter",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAyqHZ3ns5grBhQjmzP4VxRk4obo8cp6AUg&usqp=CAU",
           "category_id": "11",
           "style_id": "11C",
@@ -2423,6 +2457,7 @@
         {
           "name": "British Golden Ale",
           "category": "Pale Commonwealth Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4jiWsJV736cPLW9vXDt57xqsM5ob-cLtlA&usqp=CAU",
           "category_id": "12",
           "style_id": "12A",
@@ -2494,6 +2529,7 @@
         {
           "name": "Australian Sparkling Ale",
           "category": "Pale Commonwealth Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNJxV55Ebbzw9LBzqsDSIu6UdTSogGKK45Q&usqp=CAU",
           "category_id": "12",
           "style_id": "12B",
@@ -2565,6 +2601,7 @@
         {
           "name": "English IPA",
           "category": "Pale Commonwealth Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEp6xYW6HiFA32LG-oRPzadPiuCrysjxi5w&usqp=CAU",
           "category_id": "12",
           "style_id": "12C",
@@ -2636,6 +2673,7 @@
         {
           "name": "Dark Mild",
           "category": "Brown British Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTts0hLNNJW2NKOaqBOzdKwTeodOVBOjUVetw&usqp=CAU",
           "category_id": "13",
           "style_id": "13A",
@@ -2707,6 +2745,7 @@
         {
           "name": "British Brown Ale",
           "category": "Brown British Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0k4EqBKvg0AogPmY3FRaH8n2DUA7JlI_uDg&usqp=CAU",
           "category_id": "13",
           "style_id": "13B",
@@ -2778,6 +2817,7 @@
         {
           "name": "English Porter",
           "category": "Brown British Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3ieopnujci1H-oeJvwCrP0eIxvk2QXv5dw&usqp=CAU",
           "category_id": "13",
           "style_id": "13C",
@@ -2850,6 +2890,7 @@
         {
           "name": "Scottish Light",
           "category": "Scottish Ale",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVEPE08s4kfAuw_n_AhGmS7KJPykDb7sdPwQ&usqp=CAU",
           "category_id": "14",
           "style_id": "14A",
@@ -2921,6 +2962,7 @@
         {
           "name": "Scottish Heavy",
           "category": "Scottish Ale",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVWpz9Jdq0kgfC9NlIVLjbX09ysVvX4r44Xw&usqp=CAU",
           "category_id": "14",
           "style_id": "14B",
@@ -2992,6 +3034,7 @@
         {
           "name": "Scottish Export",
           "category": "Scottish Ale",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNiCbdkbFdPDHpFD3hqmfwydZHkIOjYMmFpg&usqp=CAU",
           "category_id": "14",
           "style_id": "14C",
@@ -3063,6 +3106,7 @@
         {
           "name": "Irish Red Ale",
           "category": "Irish Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiFh7p493C6aSrLJn7teLotHck2dPrm3JO4A&usqp=CAU",
           "category_id": "15",
           "style_id": "15A",
@@ -3134,6 +3178,7 @@
         {
           "name": "Irish Stout",
           "category": "Irish Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdra6Vq5EUWqyfFJKC31muefShEo_sgYjrw&usqp=CAU",
           "category_id": "15",
           "style_id": "15B",
@@ -3205,6 +3250,7 @@
         {
           "name": "Irish Extra Stout",
           "category": "Irish Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6P3zjFeBH2fdww2PzwGDjImEDPGtgm4XIAiyhpqgkq9iBuMpfnSyNEOIvxHxWB2Yvsso&usqp=CAU",
           "category_id": "15",
           "style_id": "15C",
@@ -3276,6 +3322,7 @@
         {
           "name": "Sweet Stout",
           "category": "Dark British Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qBLk9zuTJsuZdMwvC2ESwidukn3dSfJ1HA&usqp=CAU",
           "category_id": "16",
           "style_id": "16A",
@@ -3347,6 +3394,7 @@
         {
           "name": "Oatmeal Stout",
           "category": "Dark British Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLNw7ChTe29cJChs4jOBh_btiGRnSta0i7g&usqp=CAU",
           "category_id": "16",
           "style_id": "16B",
@@ -3418,6 +3466,7 @@
         {
           "name": "Tropical Stout",
           "category": "Dark British Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLq-cYIndV570A9GDcG9KNoAvM9ChieWA1g&usqp=CAU",
           "category_id": "16",
           "style_id": "16C",
@@ -3489,6 +3538,7 @@
         {
           "name": "Foreign Extra Stout",
           "category": "Dark British Beer",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchwAA297aDBL2jF6aOfVOJWKdTxvmxPWlpA&usqp=CAU",
           "category_id": "16",
           "style_id": "16D",
@@ -3560,6 +3610,7 @@
         {
           "name": "British Strong Ale",
           "category": "Strong British Ale",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQIQhgQo8OTJjeB_DAZGow0KNH6NnwqSpxtg&usqp=CAU",
           "category_id": "17",
           "style_id": "17A",
@@ -3631,6 +3682,7 @@
         {
           "name": "Old Ale",
           "category": "Strong British Ale",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTxYW0JUBseXVCEhXeNsPFb9lLsZfYCHhO0Q&usqp=CAU",
           "category_id": "17",
           "style_id": "17B",
@@ -3702,6 +3754,7 @@
         {
           "name": "Wee Heavy",
           "category": "Strong British Ale",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA9VU1A0XQ60a0Lc8xeRB0jrH1Adh6XFVxQ&usqp=CAU",
           "category_id": "17",
           "style_id": "17C",
@@ -3774,6 +3827,7 @@
         {
           "name": "English Barley Wine",
           "category": "Strong British Ale",
+          "main_cat": "UK and Ireland",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqExkgQakLrbGOCkhesz-EppKdZuBADwRfHw&usqp=CAU",
           "category_id": "17",
           "style_id": "17D",
@@ -3845,6 +3899,7 @@
         {
           "name": "Blonde Ale",
           "category": "Pale American Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcpPrkgBO-qcQAaeAkIaoQJ_dHWvIxW5xfg&usqp=CAU",
           "category_id": "18",
           "style_id": "18A",
@@ -3916,6 +3971,7 @@
         {
           "name": "American Pale Ale",
           "category": "Pale American Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9kqSqtPL1mA6QX-bwAqq_LKOZtgRGeb01Uw&usqp=CAU",
           "category_id": "18",
           "style_id": "18B",
@@ -3987,6 +4043,7 @@
         {
           "name": "American Amber Ale",
           "category": "Amber and Brown American Beer",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXyQrTRASAhXAHoqjYl9SXgpgwaIKImhrZg&usqp=CAU",
           "category_id": "19",
           "style_id": "19A",
@@ -4058,6 +4115,7 @@
         {
           "name": "California Common",
           "category": "Amber and Brown American Beer",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ZL7Nz_hZupvDr0_mZ6WfttvkyaW75ajl-g&usqp=CAU",
           "category_id": "19",
           "style_id": "19B",
@@ -4129,6 +4187,7 @@
         {
           "name": "American Brown Ale",
           "category": "Amber and Brown American Beer",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSTZwkTtP3etteWC2GlZMvBEghfy6edLogw&usqp=CAU",
           "category_id": "19",
           "style_id": "19C",
@@ -4201,6 +4260,7 @@
         {
           "name": "American Porter",
           "category": "American Porter and Stout",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzw3GscS9x75QRu3xR7Yc2QKZg_2GTXND_qA&usqp=CAU",
           "category_id": "20",
           "style_id": "20A",
@@ -4273,6 +4333,7 @@
         {
           "name": "American Stout",
           "category": "American Porter and Stout",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlrf50JNmfg6trrApuryMbeHti47_mXzTZA&usqp=CAU",
           "category_id": "20",
           "style_id": "20B",
@@ -4344,6 +4405,7 @@
         {
           "name": "Imperial Stout",
           "category": "American Porter and Stout",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_N6MK7ux9JDEe7G6ErDfaJtI6rgddqsLdQ&usqp=CAU",
           "category_id": "20",
           "style_id": "20C",
@@ -4416,6 +4478,7 @@
         {
           "name": "American IPA",
           "category": "IPA",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIJMHrkCV7mmLn4UHrMbSf2oHdvwUuRBpXQ&usqp=CAU",
           "category_id": "21",
           "style_id": "21A",
@@ -4487,6 +4550,7 @@
         {
           "name": "Specialty IPA",
           "category": "IPA",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylbHyJQOnOpP_wazTOgct9n95SKo4PWOj-A&usqp=CAU",
           "category_id": "21",
           "style_id": "21B",
@@ -4562,6 +4626,7 @@
         {
           "name": "Hazy IPA",
           "category": "IPA",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0AlgUWU706XKhhPYanJsOSt138sxYtzKPg&usqp=CAU",
           "category_id": "21",
           "style_id": "21C",
@@ -4633,6 +4698,7 @@
         {
           "name": "Double IPA",
           "category": "Strong American Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIPOXNxIXzx1IbZ3DfHrHihOZaDxoj3ybgw&usqp=CAU",
           "category_id": "22",
           "style_id": "22A",
@@ -4704,6 +4770,7 @@
         {
           "name": "American Strong Ale",
           "category": "Strong American Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8BEBTcLQjnICLUamSgBA_onO1IAmm9bfgcw&usqp=CAU",
           "category_id": "22",
           "style_id": "22B",
@@ -4776,6 +4843,7 @@
         {
           "name": "American Barleywine",
           "category": "Strong American Ale",
+          "main_cat": "American beer styles",
           "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbivitSFmXDQOtpWTEu9OanPa5-WQkGtibug&usqp=CAU",
           "category_id": "22",
           "style_id": "22C",
@@ -4847,6 +4915,7 @@
         {
           "name": "Wheatwine",
           "category": "Strong American Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSs4qXxld7bRqIkVRHjdYIzSgPXhOey_tZQ&usqp=CAU",
           "category_id": "22",
           "style_id": "22D",
@@ -4918,6 +4987,7 @@
         {
           "name": "Berliner Weisse",
           "category": "European Sour Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyOXqm7E0sIU5XSfsrY4zHLYGUUsGbr3E3Fg&usqp=CAU",
           "category_id": "23",
           "style_id": "23A",
@@ -4989,6 +5059,7 @@
         {
           "name": "Flanders Red Ale",
           "category": "European Sour Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7UTn1n1zu28mrahWZm9Dp3mmFv4uP8mXwOA&usqp=CAU",
           "category_id": "23",
           "style_id": "23B",
@@ -5059,6 +5130,7 @@
         {
           "name": "Oud Bruin",
           "category": "European Sour Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQakdDb6D-Afdv1i7j98PIul4uDefJ5geKlzQ&usqp=CAU",
           "category_id": "23",
           "style_id": "23C",
@@ -5130,6 +5202,7 @@
         {
           "name": "Lambic",
           "category": "European Sour Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ad26dyysIM2-8Wu1cbDy_ocDPWEj4fTz1g&usqp=CAU",
           "category_id": "23",
           "style_id": "23D",
@@ -5201,6 +5274,7 @@
         {
           "name": "Gueuze",
           "category": "European Sour Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4TGp6vcFuL0Q-36a8_8EJ2ygw8ZSmLvnf8Q&usqp=CAU",
           "category_id": "23",
           "style_id": "23E",
@@ -5272,6 +5346,7 @@
         {
           "name": "Fruit Lambic",
           "category": "European Sour Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://aetcm.es/wp-content/uploads/2020/02/cerveza-lambic-w.jpg",
           "category_id": "23",
           "style_id": "23F",
@@ -5344,6 +5419,7 @@
         {
           "name": "Gose",
           "category": "European Sour Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdu1KvpsfcGIocdKBpQPwvk30uuBnguAwDaw&usqp=CAU",
           "category_id": "23",
           "style_id": "23G",
@@ -5415,6 +5491,7 @@
         {
           "name": "Witbier",
           "category": "Belgian Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnw4JAsVMdnaGHz55FVR647SbHTCqK2rP34w&usqp=CAU",
           "category_id": "24",
           "style_id": "24A",
@@ -5486,6 +5563,7 @@
         {
           "name": "Belgian Pale Ale",
           "category": "Belgian Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR6XlUKWlE5-fJOaNM7j9o49yXsnD7e4MFCw&usqp=CAU",
           "category_id": "24",
           "style_id": "24B",
@@ -5557,6 +5635,7 @@
         {
           "name": "Bière de Garde",
           "category": "Belgian Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9O9KMRXklNEIM9Xuos1ky8cQPzecE2KAg&usqp=CAU",
           "category_id": "24",
           "style_id": "24C",
@@ -5631,6 +5710,7 @@
         {
           "name": "Belgian Blond Ale",
           "category": "Strong Belgian Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWLKWgD-jWjvAj4PhLdNqUV4MII6osTEHjtA&usqp=CAU",
           "category_id": "25",
           "style_id": "25A",
@@ -5702,6 +5782,7 @@
         {
           "name": "Saison",
           "category": "Strong Belgian Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4eZ1HpXMByU8UBr3K6RxcqzY2f15GN5aOQ&usqp=CAU",
           "category_id": "25",
           "style_id": "25B",
@@ -5774,6 +5855,7 @@
         {
           "name": "Belgian Golden Strong Ale",
           "category": "Strong Belgian Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDpchXXgsLX-SoNnqQHVun12G9qtFhN8quaA&usqp=CAU",
           "category_id": "25",
           "style_id": "25C",
@@ -5845,6 +5927,7 @@
         {
           "name": "Belgian Single",
           "category": "Monastic Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ocbgTDeVrbto6r4cByyROOxzHjq5JhLgRw&usqp=CAU",
           "category_id": "26",
           "style_id": "26A",
@@ -5916,6 +5999,7 @@
         {
           "name": "Belgian Dubbel",
           "category": "Monastic Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FCb-4uHWzrRDlalHM1UJYDwdwEKcTK6wog&usqp=CAU",
           "category_id": "26",
           "style_id": "26B",
@@ -5987,6 +6071,7 @@
         {
           "name": "Belgian Tripel",
           "category": "Monastic Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5P0YdFzhVZmwCfDFA7qy_VUeDRkZpVQbDg&usqp=CAU",
           "category_id": "26",
           "style_id": "26C",
@@ -6058,6 +6143,7 @@
         {
           "name": "Belgian Dark Strong Ale",
           "category": "Monastic Ale",
+          "main_cat": "European beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Bcx33_h5YZOdDwZiQukVENZPPhQwOJeEFw&usqp=CAU",
           "category_id": "26",
           "style_id": "26D",
@@ -6129,6 +6215,7 @@
         {
           "name": "Brett Beer",
           "category": "American Wild Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-6hLF-IqGpomzJzfZkpE6huyVMkfHyGiqQ&usqp=CAU",
           "category_id": "28",
           "style_id": "28A",
@@ -6153,6 +6240,7 @@
         {
           "name": "Mixed-Fermentation Sour Beer",
           "category": "American Wild Ale",
+          "main_cat": "American beer styles",
           "category_id": "28",
           "style_id": "28B",
           "category_description": "The name American Wild Ale is commonly used by craft brewers and homebrewers. However, the word Wild does not imply that these beers are necessarily spontaneously-fermented; rather, it indicates that they are influenced by microbes other than traditional brewer's yeasts, or perhaps that they are mixed-fermentation beers. The use of the word American does not mean that the beer has to be based on a Classic Style American beer style, or that the methods are solely practiced in the United States. Base styles in this category do not have to be Classic Styles at all (although they can be); something like, “blond ale, 7%” would be fine, since the underlying style is often lost under the fermentation character.This category is intended for a wide range of beers that do not fit traditional European sour, wild, or spontaneously-fermented styles. All of the styles in this category are Specialty-TypeBeers where many creative interpretations are possible, and the styles are defined only by the use of specific fermentation profiles and ingredients. As specialty styles, the mandatory description provided by the entrant is of the utmost importance to the judge.The styles in this category are differentiated by the types of yeast and bacteria used - see the preamble to each style for more information. We use the conversational shorthand terms used in the brewing industry: Brett for Brettanomyces, Sacch for Saccharomyces, Lacto for Lactobacillus, and Pedio for Pediococcus. See the Glossary for additional information. The Wild Specialty Beer style is for beers for other styles within this category when Specialty-Type Ingredients are added. Background levels of oak may be used in all styles within this category, but beers aged in other woods with unique flavors or barrels that contained other alcohol products must be entered in the Wild Specialty Beer style.",
@@ -6176,6 +6264,7 @@
         {
           "name": "Wild Specialty Beer",
           "category": "American Wild Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlFsJ3_GQexF11G3m_R7usZk9gkvyU7Rb2Q&usqp=CAU",
           "category_id": "28",
           "style_id": "28C",
@@ -6200,6 +6289,7 @@
         {
           "name": "Straight Sour Beer",
           "category": "American Wild Ale",
+          "main_cat": "American beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY19fgjITKiBuzdfc_9FhgkQ_UABOugQ03Rg&usqp=CAU",
           "category_id": "28",
           "style_id": "28D",
@@ -6272,6 +6362,7 @@
         {
           "name": "Fruit Beer",
           "category": "Fruit Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQADIb2FTDtP_xP1esAeYwNv8W3n5gV-G6TyA&usqp=CAU",
           "category_id": "29",
           "style_id": "29A",
@@ -6292,6 +6383,7 @@
         {
           "name": "Fruit and Spice Beer",
           "category": "Fruit Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPka2YTHR3o4EjuIVfVOwbO-6g48fhiV01A&usqp=CAU",
           "category_id": "29",
           "style_id": "29B",
@@ -6313,6 +6405,7 @@
         {
           "name": "Specialty Fruit Beer",
           "category": "Fruit Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBlNUF5LG8jdFu6vHv5Y6c8Bs7iIasyCO0w&usqp=CAU",
           "category_id": "29",
           "style_id": "29C",
@@ -6334,6 +6427,7 @@
         {
           "name": "Grape Ale",
           "category": "Fruit Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmrR6EGAReV3Q03Qhp5052VGV75bR1zdQ&usqp=CAU",
           "category_id": "29",
           "style_id": "29D",
@@ -6407,6 +6501,7 @@
         {
           "name": "Spice, Herb, or Vegetable Beer",
           "category": "Spiced Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uibZdkOBTptePbHSqa0BQYZDb1roC-F7XQ&usqp=CAU",
           "category_id": "30",
           "style_id": "30A",
@@ -6428,6 +6523,7 @@
         {
           "name": "Autumn Seasonal Beer",
           "category": "Spiced Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTII5arZF1gOaIOFhjI_V-_A9BE9JydHmrjGw&usqp=CAU",
           "category_id": "30",
           "style_id": "30B",
@@ -6450,6 +6546,7 @@
         {
           "name": "Winter Seasonal Beer",
           "category": "Spiced Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9V0ONiCrMQYagQqEpJyZxLvNYQTdceL-x2g&usqp=CAU",
           "category_id": "30",
           "style_id": "30C",
@@ -6473,6 +6570,7 @@
         {
           "name": "Specialty Spice Beer",
           "category": "Spiced Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD-VCYOi2ygNA15Ri6ZV7w0fYclaCOUHI6g&usqp=CAU",
           "category_id": "30",
           "style_id": "30D",
@@ -6494,6 +6592,7 @@
         {
           "name": "Alternative Grain Beer",
           "category": "Alternative Fermentables Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaO7k9T_olXMNFUIFLf849wKRhkk9PN36aQ&usqp=CAU",
           "category_id": "31",
           "style_id": "31A",
@@ -6515,6 +6614,7 @@
         {
           "name": "Alternative Sugar Beer",
           "category": "Alternative Fermentables Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2gYfihBWKxlv_AcZd1g9pn_ghifYNWP0Pg&usqp=CAU",
           "category_id": "31",
           "style_id": "31B",
@@ -6536,6 +6636,7 @@
         {
           "name": "Classic Style Smoked Beer",
           "category": "Smoked Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVLFV0WzC_2VPtMVVAVoH-6F4sd5PyLS6mA&usqp=CAU",
           "category_id": "32",
           "style_id": "32A",
@@ -6559,6 +6660,7 @@
         {
           "name": "Specialty Smoked Beer",
           "category": "Smoked Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaP9zQRn6_pyHhRNKASXwIpg5bpaBgRdB4bg&usqp=CAU",
           "category_id": "32",
           "style_id": "32B",
@@ -6581,6 +6683,7 @@
         {
           "name": "Commercial Specialty Beer",
           "category": "Specialty Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Dgu7MDD1f88C73DDaADKHDvIWoq4Bq5NeA&usqp=CAU",
           "category_id": "34",
           "style_id": "34A",
@@ -6602,6 +6705,7 @@
         {
           "name": "Mixed-Style Beer",
           "category": "Specialty Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1zUfPT86qDUG9j-GlxzPC8pDEW8VL0LE8w&usqp=CAU",
           "category_id": "34",
           "style_id": "34B",
@@ -6623,6 +6727,7 @@
         {
           "name": "Experimental Beer",
           "category": "Specialty Beer",
+          "main_cat": "Alternative beer styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBra8t3H2u4ESMtfjgE8CDDlSki9U2uhbHA&usqp=CAU",
           "category_id": "34",
           "style_id": "34C",
@@ -6644,6 +6749,7 @@
         {
           "name": "Dorada Pampeana",
           "category": "Argentine Styles",
+          "main_cat": "International styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBZ4mLfzeCuvV34uKCHNAuTV-PxzXcj5a0Q&usqp=CAU",
           "category_id": "X",
           "style_id": "X1",
@@ -6712,6 +6818,7 @@
         {
           "name": "IPA Argenta",
           "category": "Argentine Styles",
+          "main_cat": "International styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTah7nt89fx6FsowmwjVSeUcoxf_xmRHurI8A&usqp=CAU",
           "category_id": "X",
           "style_id": "X2",
@@ -6780,6 +6887,7 @@
         {
           "name": "Italian Grape Ale",
           "category": "Italian Styles",
+          "main_cat": "International styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKU36OJ-foHrV3mP6DHB2ogL2iESvzREj6A&usqp=CAU",
           "category_id": "X",
           "style_id": "X3",
@@ -6850,6 +6958,7 @@
         {
           "name": "Catharina Sour",
           "category": "Brazilian Styles",
+          "main_cat": "International styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbr3rZnaejPAdqfwG2y-mR6EkmxD3Pkgo5g&usqp=CAU",
           "category_id": "X",
           "style_id": "X4",
@@ -6921,6 +7030,7 @@
         {
           "name": "New Zealand Pilsner",
           "category": "New Zealand Styles",
+          "main_cat": "International styles",
           "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY-iwOi-PNFj8BRgG6c-C80v2cORG38aVkyA&usqp=CAU",
           "category_id": "X",
           "style_id": "X5",

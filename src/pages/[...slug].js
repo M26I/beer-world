@@ -2,7 +2,7 @@ import Head from 'next/head'
 import data from "../beer-list.json";
 import Navbar from '@/components/navbar';
 import { Bebas_Neue } from 'next/font/google';
-import { useEffect, useState } from 'react';
+import { useEffect} from 'react';
 
 
 
