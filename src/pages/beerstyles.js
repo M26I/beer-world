@@ -13,13 +13,13 @@ import Search from "@/components/search";
 
 const bebas = Bebas_Neue({
   weight: "400",
-  subsets: ['latin']
+  subsets: ["latin"]
 })
 
 export default function BeerStyles({ styles }) {
   const [query, setQuery] = useState(null); // Set to null to display all initially
   const [continentToSort, setContinentToSort] = useState(null); // Set to null to display all initially
-  const [selectedCategory, setSelectedCategory] = useState('');
+  const [selectedCategory, setSelectedCategory] = useState("");
   const categories = Array.from(new Set(styles?.map((style) => style.main_cat)));
 
   console.log(styles)
@@ -34,7 +34,7 @@ export default function BeerStyles({ styles }) {
   const filteredStyles = styles
     ? styles.filter((style) => {
       // Check if the category matches the selected category
-      const matchesCategory = selectedCategory === '' || style.main_cat === selectedCategory;
+      const matchesCategory = selectedCategory === "" || style.main_cat === selectedCategory;
 
       // Check if the name includes the search query
       const matchesQuery = query === null || style.name.toLowerCase().includes(query);
@@ -77,7 +77,7 @@ export default function BeerStyles({ styles }) {
   const handleChange = (e) => {
     const newQuery = e.target.value.toLowerCase();
     setQuery(newQuery);
-    console.log('Query:', newQuery);
+    console.log("Query:", newQuery);
   };
 
 
@@ -99,8 +99,8 @@ export default function BeerStyles({ styles }) {
       </Head>
       <Navbar />
       <div className="pt-12 md:pt-36 bg-light"></div>
-      <section className="hidden md:block h-96 bg-cover bg-center" style={{ backgroundImage: 'url("/bstyles1.png")' }}></section>
-      <section className="block md:hidden h-60 bg-cover bg-center" style={{ backgroundImage: 'url("/bstyles-phone.png")' }}>
+      <section className="hidden md:block h-96 bg-cover bg-center" style={{ backgroundImage: `url("/bstyles1.png")` }}></section>
+      <section className="block md:hidden h-60 bg-cover bg-center" style={{ backgroundImage: `url("/bstyles-phone.png")` }}>
       </section>
       <section className={bebas.className}>
         <div className=" mx-auto w-5/6">
@@ -109,10 +109,10 @@ export default function BeerStyles({ styles }) {
       </section>
       <div className=" mx-auto w-5/6">
         <p className="text-xl pt-10 pb-10">Beer is a beverage that knows no boundaries, and its diverse range of flavors
-          and brewing traditions have given rise to a wide array of categories and styles. Whether you're a seasoned beer
+          and brewing traditions have given rise to a wide array of categories and styles. Whether you&apos;re a seasoned beer
           enthusiast or just beginning your exploration of this delightful libation, this page will be your gateway to understanding
           the most common categorizations of beer. From the classic and time-honored UK and Irish ales to the innovative and
-          boundary-pushing alternative styles, we've broken down the world of beer into six distinct categories:
+          boundary-pushing alternative styles, we&apos;ve broken down the world of beer into six distinct categories:
           American beer styles, Lager, UK and Ireland, European beer styles, Alternative beer styles, and International styles.
           Join us on a journey through the rich tapestry of beer, each category offering a unique and exciting experience
           for your taste buds.</p>

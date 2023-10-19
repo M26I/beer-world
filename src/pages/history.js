@@ -5,7 +5,7 @@ import { Bebas_Neue } from "next/font/google";
 
 const bebas = Bebas_Neue({
   weight: "400",
-  subsets: ['latin']
+  subsets: ["latin"]
 })
 
 export default function History() {
@@ -19,8 +19,8 @@ export default function History() {
       </Head>
       <Navbar />
       <div className="pt-12 md:pt-36 bg-light"></div>
-      <section className="hidden md:block h-96 bg-cover bg-center" style={{ backgroundImage: 'url("/history.png")' }}></section>
-      <section className="block md:hidden h-60 bg-cover bg-center" style={{ backgroundImage: 'url("/history-phone.png")' }}>
+      <section className="hidden md:block h-96 bg-cover bg-center" style={{ backgroundImage: `url("/history.png")` }}></section>
+      <section className="block md:hidden h-60 bg-cover bg-center" style={{ backgroundImage: `url("/history-phone.png")` }}>
       </section>
       <section className={bebas.className}>
         <div className=" mx-auto w-5/6">
@@ -137,7 +137,7 @@ export default function History() {
 
         You know we would get back to Germany at some point!
 
-        The Germans were brewing beer (which they called ol, for `ale') as early as 800 BCE.
+        The Germans were brewing beer (which they called ol, for `ale ) as early as 800 BCE.
 
         Large quantities of beer jugs, still containing evidence of the beer, were discovered in a tomb in the Village of Kasendorf in northern Bavaria, near Kulmbach.
 
@@ -149,7 +149,7 @@ export default function History() {
       </section>
       <p className="text-xl pt-10 pb-10 mx-auto w-5/6">According to this German law, beer could only contain water, barley, and hops. In the mid-1800s, the importance of yeast was discovered by people such as Louis Pasteur and it was added to the “approved” ingredient list.
 
-        The Reinheitsgebot was the world's first consumer protection law, as it regulated the ingredients which could legally be used in brewing beer. It also guaranteed that there was a certain level of purity in German-made beer, which gave it the perception that it was safe to drink.
+        The Reinheitsgebot was the world&apos;s first consumer protection law, as it regulated the ingredients which could legally be used in brewing beer. It also guaranteed that there was a certain level of purity in German-made beer, which gave it the perception that it was safe to drink.
 
         Like those who preceded them, the Germans also instituted a daily beer ration and considered beer a necessary staple of their diet.</p>
       <section className={bebas.className}>
@@ -159,11 +159,11 @@ export default function History() {
       </section>
       <p className="text-xl pt-10 pb-10 mx-auto w-5/6 md:pb-16 pb-10">Breweries were emerging one after another in the colonies of North America. The first brewery on the New Continent was in New Amsterdam (which would later become New York City). Both George Washington and Thomas Jefferson were producing beer. George Washington himself wrote a recipe on how to brew beer.
 
-        In the nineteenth century, beer was widely famous as the world's number one alcoholic beverage. This period of modern history marks the start of the biggest changes in beer production, such as using yeast for fermentation.
+        In the nineteenth century, beer was widely famous as the world&apos;s number one alcoholic beverage. This period of modern history marks the start of the biggest changes in beer production, such as using yeast for fermentation.
 
         In 1810, Oktoberfest was first held in Munich. Its origins can be traced back to wedding festivities that actually featured mostly wine.Prince Regent Ludwig of Bavaria, the later King Ludwig I, and Princess Therese of Saxony-Hildburghausen were married on October 17, 1810. The entire city was invited to the city gates to celebrate and observe a huge horse race.
 
-        Over two hundred years later, it's now the world's largest beer festival. Munich traditionally hosts millions of beer lovers who all gather annually to enjoy the finest German beer.
+        Over two hundred years later, it&apos;s now the world&apos;s largest beer festival. Munich traditionally hosts millions of beer lovers who all gather annually to enjoy the finest German beer.
 
         As mentioned earlier, the famous Louis Pasteur discovered that yeast causes fermentation. His writings on the impact of yeast to control fermentation marked the single biggest discovery to allow for faithful replication of consistent beer batches.
 
